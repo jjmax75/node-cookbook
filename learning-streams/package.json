@@ -1,0 +1,15 @@
+{
+  "name": "learning-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Behan <behanj@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ndjson": "^2.0.0"
+  }
+}
